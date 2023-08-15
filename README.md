@@ -43,8 +43,8 @@ Use Cases:
         Clear boat list: "/clearList"
         View boat details: "/getBoat/{id}"
     
-> Use Postman to test the API requests. 
-Autorization: 
+Use Postman to test the API requests. 
+*Autorization: 
 		Type = Basic Auth
 		Username = user
 		Password = password
