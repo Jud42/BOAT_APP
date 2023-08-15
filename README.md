@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# BOAT_APP
-log: user, password; admin, password
-=======
 # Boat Overview App (Java/Spring Boot)
 
 Welcome to the Boat Overview App! This is a simple application that allows users to manage and view a list of boats. It includes authentication/authorization, CRUD operations for boats, and detailed views for each boat.
@@ -47,9 +43,8 @@ Use Cases:
         Clear boat list: "/clearList"
         View boat details: "/getBoat/{id}"
     
-Utilize Postman to test the API requests. 
+> Utilize Postman to test the API requests. 
 	* Autorization: 
 		Type = Basic Auth
 		Username = user
 		Password = password
->>>>>>> 08dda85 (last update)
