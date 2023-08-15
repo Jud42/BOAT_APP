@@ -44,7 +44,7 @@ Use Cases:
         View boat details: "/getBoat/{id}"
     
 Use Postman to test the API requests. 
-*Autorization: 
-		Type = Basic Auth
-		Username = user
-		Password = password
+Autorization: 
+	Type = Basic Auth;
+	Username = user;
+	Password = password;
